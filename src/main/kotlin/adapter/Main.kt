@@ -16,6 +16,8 @@ package org.example.adapter
  * Target - 期待されるインターフェースを定義するクラス
  * Adaptee - 既存のインターフェースを持つクラス
  * Adapter - AdapteeのインターフェースをTargetのインターフェースに適合させるクラス
+ *
+ *
  */
 
 fun main() {
